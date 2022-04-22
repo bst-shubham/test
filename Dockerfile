@@ -1,2 +1,2 @@
-FROM alpine
-CMD ["echo", "Hello bluestacks!"]
+FROM nginx
+#CMD ["echo", "Hello bluestacks!"]
